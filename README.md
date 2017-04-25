@@ -1,5 +1,6 @@
 # CommandLineTechique  
-##Powershell  
+## Powershell
+### Keyboard Shortcut
 Ctrl + r: Backward history search  
 Ctrl + s: Forward history search
 
